@@ -1,6 +1,6 @@
 def speak_to_grandma(string)
 string = "I LOVE YOU GRANDMA!"
-if string.upcase == "I LOVE YOU GRANDMA!"
+if string.upcase == string
 puts'I LOVE YOU TOO PUMPKIN!'
 else 
   puts 'HUH?! SPEAK UP, SONNY!'
