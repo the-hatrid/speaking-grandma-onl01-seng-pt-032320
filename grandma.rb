@@ -1,5 +1,4 @@
 def speak_to_grandma(string)
-string = "I LOVE YOU GRANDMA!"
 if string 
   elsif string.upcase != string
 return 'I LOVE YOU TOO PUMPKIN!'
