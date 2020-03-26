@@ -3,7 +3,8 @@ string = "I LOVE YOU GRANDMA!"
 if string == "I LOVE YOU GRANDMA!".upcase
 puts'I LOVE YOU TOO PUMPKIN!'
 else 
-  puts 
+  puts 'HUH?! SPEAK UP, SONNY!'
+end
 end
 
   
