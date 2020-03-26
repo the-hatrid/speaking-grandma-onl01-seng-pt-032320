@@ -1,6 +1,7 @@
 def speak_to_grandma(String)
 String = 'I LOVE YOU GRANDMA!'
-if String == 
+if String == 'I LOVE YOU GRANDMA!'.upcase
+  puts 
 end
   
   
