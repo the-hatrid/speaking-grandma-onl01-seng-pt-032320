@@ -4,7 +4,7 @@ if string == "I LOVE YOU GRANDMA!"
   elsif string.upcase != string
 return 'HUH?! SPEAK UP, SONNY!'
 else 
-  return 
+  return "NO, NOT SINCE 1938!"
 end
 end
 
