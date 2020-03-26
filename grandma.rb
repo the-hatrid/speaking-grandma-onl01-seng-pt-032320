@@ -1,4 +1,4 @@
-def speak_to_grandma(string)
+def speak_to_grandma(string = "")
 puts'I LOVE YOU TOO PUMPKIN!'
 end
   
