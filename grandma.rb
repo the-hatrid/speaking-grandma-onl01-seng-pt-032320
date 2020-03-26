@@ -1,7 +1,7 @@
 def speak_to_grandma(string)
 string = "I LOVE YOU GRANDMA!"
-if 
-puts'I LOVE YOU TOO PUMPKIN!'
+if string 
+return 'I LOVE YOU TOO PUMPKIN!'
 else 
   puts 'HUH?! SPEAK UP, SONNY!'
 end
